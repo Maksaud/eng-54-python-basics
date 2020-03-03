@@ -13,6 +13,7 @@ We will also learn:
 - Agile and scrum
 - Markdown and documentation
 - Good git etiquette
+- Github
 - Other good practices:
     - Good naming
     -Dry
