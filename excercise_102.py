@@ -1,5 +1,5 @@
 name = input("Input your name: ")
-height = input("Input your height in centimeters: ")
+height = int(input("Input your height in centimeters: "))
 favorite_colour = input("Input your favorite color: ")
 a_secret_number = input("Input a secret number: ")
 
