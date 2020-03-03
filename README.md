@@ -4,6 +4,8 @@ This is a repo with the basics for python
 
 we will cover:
 - variables
+    -   A variable is a place where you store data
+    -   Essentialy it is a box where you can put things inside
 - Datatypes
 - Control flow
 - Operators
@@ -16,5 +18,5 @@ We will also learn:
 - Github
 - Other good practices:
     - Good naming
-    -Dry
-    -Other
+    - Dry
+    - Other
