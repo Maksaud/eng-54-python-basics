@@ -11,7 +11,7 @@ magic_number = 5
 
 count = 6
 
-while count >= 0:
+while count != 0:
     # I need to ask user for input
     user_number = int(input('What is your chosen number between 0 and 10 '))
 

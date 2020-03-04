@@ -1,3 +1,4 @@
+
 name = input("Input your name: ")
 height = int(input("Input your height in centimeters: "))
 favorite_colour = input("Input your favorite color: ")
