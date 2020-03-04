@@ -1,5 +1,5 @@
 
-age = 19
+age = input("how old are you")
 driver_lisence = True
 
 
@@ -11,7 +11,7 @@ driver_lisence = True
 
 if age >= 19 and driver_lisence:
     print('You can vote and drive,')
-elif age >= 19:
+elif age >= 19 and driver_lisence:
     print("you can vote")
 elif driver_lisence:
     print("You can drive")
@@ -19,3 +19,5 @@ elif 19 < age >= 16:
     print("You can leagally drink but your mates/uncles might have your back")
 else:
     print("Your too young, go back to school!")
+
+ #  as a user I should be able to keep being prompted for input until I say 'exit'
