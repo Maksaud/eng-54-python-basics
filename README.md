@@ -26,15 +26,15 @@ exercise102 - String concatination
 
 exercise103 - Re assigning variables
 
-exercise104 - 
+exercise104 - re assigning variables with date calculation
 
-exercise105
+exercise105 - list manipulations
 
-exercise106
+exercise106 - magic number game check if the magic number matches the input
 
-exercise107
+exercise107 - lists and for loops
 
-exercise108
+exercise108 - 
 
 exercise109
 

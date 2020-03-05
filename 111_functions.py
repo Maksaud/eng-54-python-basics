@@ -20,6 +20,14 @@
 # repeat
 # yourself
 
+# Seperation of concerns
+# you separate logically your code.
+# place where you define functions
+# place where you run functions
+# place where you write tests
+# place where you define seeds (seeds are fake data for your app)
+
+
 
 # Syntax
 def name_of_function(arg1, arg2):
