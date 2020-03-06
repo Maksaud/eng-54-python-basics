@@ -32,17 +32,17 @@ exercise105 - list manipulations
 
 exercise106 - magic number game check if the magic number matches the input
 
-exercise107 - lists and for loops
+exercise107 - lists, for loops and manupulate
 
-exercise108 - 
+exercise108 - Practice Dictionary
 
-exercise109
+exercise109 - a if statement that checks what you can do depending on age
 
-exercise110
+exercise110 - Using if statements and dictionary to make a program that displays movie ratings
 
-exercise111
+exercise111 - Created a mr miyagi response program
 
-exercise112
+exercise112 - BuzzBoring programm
 
     
 ## Did while for loops and if statements
